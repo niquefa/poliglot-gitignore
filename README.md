@@ -13,4 +13,5 @@ Currently with the languages / Platforms
 * Typescript
 * Rust
 
+See [contributing](https://github.com/niquefa/polyglot-gitignore) guidelines in case you want to contribute.
 
